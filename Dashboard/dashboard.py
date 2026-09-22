@@ -9,7 +9,7 @@ import time
 # SETTINGS
 # =====================================================
 
-SERVER_URL = "http://127.0.0.1:5000/api/data"
+SERVER_URL = "https://smart-apfc-api.onrender.com/api/data"
 
 
 

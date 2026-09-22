@@ -8,4 +8,4 @@ joblib
 tensorflow==2.16.1
 gunicorn
 flask-cors
-
+gunicorn
