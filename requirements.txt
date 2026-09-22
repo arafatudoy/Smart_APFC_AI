@@ -2,10 +2,10 @@ flask
 streamlit
 requests
 pandas
-tensorflow==2.15.0
+numpy<2
 scikit-learn
-numpy
-plotly
 joblib
-flask-cors
+tensorflow==2.16.1
 gunicorn
+flask-cors
+
