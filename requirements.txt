@@ -1,0 +1,11 @@
+flask
+streamlit
+requests
+pandas
+tensorflow
+scikit-learn
+numpy
+plotly
+joblib
+flask-cors
+gunicorn
